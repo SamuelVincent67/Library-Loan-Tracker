@@ -1,7 +1,7 @@
 # 📚 Library Loan Tracker
 
 ## Overview
-This end-to-end solution was built to simplify and digitize the process of tracking library book loans by students. It combines the strengths of Power Apps, Dataverse, Power Automate, and Power BI to deliver a seamless experience for both administrators and users.
+This end-to-end solution was built to simplify and digitize the process of tracking library book loans by students. It combines the strengths of **Power Apps**, **Dataverse**, **Power Automate** and **Power BI** to deliver a seamless experience for both administrators and users.
 
 ## Technologies Used
 - **Power Apps (Canvas & Model-Driven)** - For entering and managing book loan records.
@@ -16,7 +16,7 @@ This end-to-end solution was built to simplify and digitize the process of track
 - Interactive Power BI dashboard for library staff to monitor usage and trends.
 
 ## Business Impact
-  This solution reduces manual tracking, improves communication with students, and provides actionable insights for library management. It’s designed to be scalable for educational institutions looking to modernize their resource tracking systems.
+This solution reduces manual tracking, improves communication with students, and provides actionable insights for library management. It’s designed to be scalable for educational institutions looking to modernize their resource tracking systems.
 
 
 ## How It Works
