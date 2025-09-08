@@ -5,8 +5,8 @@ This end-to-end solution was built to simplify and digitize the process of track
 
 ## Technologies Used
 - **Power Apps (Canvas & Model-Driven)** - For entering and managing book loan records.
-- **Power Automate** - To manage tables for Student, Books, Book Copies and Loan.
-- **Dataverse** - Cloud flow that sends email notifications to students when a loan entry is added.
+- **Dataverse** - To manage tables for Student, Books, Book Copies and Loan.
+- **Power Automate** - Cloud flow that sends email notifications to students when a loan entry is added.
 - **Power BI** - Dashboard to visualize loan activity, book availability, and student borrowing trends.
 
 ## Key features
